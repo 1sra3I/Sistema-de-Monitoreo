@@ -2,7 +2,7 @@
 
 Hecho por: Israel Moreno Lopez
 
-Desarrolle un sistema de monitoreo el cual este conformado de dos programas uno de cliente y el otro de servidor, el cual pueda graficar 3 puntos aleatorios simulado y con Arduino vía seria
+Este trabajo fue desarrollado en el 3er semestre. Desarrolle un sistema de monitoreo el cual este conformado de dos programas uno de cliente y el otro de servidor, el cual pueda graficar 3 puntos aleatorios simulado y con Arduino vía seria
 
 
 Link presentacion: https://www.canva.com/design/DAG6Yii0XeU/uddqGjMKD69Rnj9FylRzFQ/edit?utm_content=DAG6Yii0XeU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
